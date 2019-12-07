@@ -1,0 +1,6 @@
+npm install
+npm i loadsh
+npm i faker
+npm i json-server -g 
+
+json-server --watch facker.js
